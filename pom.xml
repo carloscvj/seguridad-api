@@ -12,6 +12,7 @@
 
     <groupId>es.cvjpy.seguridad</groupId>
     <artifactId>seguridad-api</artifactId>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>22 - seguridad-api - El API de acceso a datos de seguridad</name>
@@ -37,7 +38,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>seguridad-ent</artifactId>
-            <version>${project.version}</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
     <description>El API de acceso a datos de seguridad</description>
